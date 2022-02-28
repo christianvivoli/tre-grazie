@@ -1,0 +1,34 @@
+DIFFERENZA TRA PROCESSO E PROGRAMMA 
+
+Processo è dinamico e Programma è statico
+
+
+LIVELLI DEL SISTEMA OPERATIVO
+
+Nucleo 
+Gestione memoria 
+Gestione periferiche
+File system --> organizzazioni dei file (albero gerarchico)
+Shell 
+Programma Applicativi
+
+SISTEMA OPERATIVO--> è una sorta di mediatore tra hardware e utente.
+
+tutti i programmi installati dall'utente sono applicativi.
+
+
+Compiti principali del Sistema operativo
+
+-è il gestore delle risorse hardware che vengono usate da specifici programma per
+eseguire il proprio compito.
+
+-fornisce il supporto all'utente per impartire i comandi necessari al funzionamento del computer,
+fa da interfacce tra l'hardware e il sistema operativo.
+
+
+primitive--> procedura standard che sono gia messe a dispozione per l'utilizzo
+
+Shell
+
+file tipo batch 
+
