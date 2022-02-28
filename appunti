@@ -1,7 +1,7 @@
 DIFFERENZA TRA PROCESSO E PROGRAMMA 
 
 Processo è dinamico e Programma è statico
-
+Il programma non  modifica lo stato della macchina invece il processo non lo modifica.
 
 LIVELLI DEL SISTEMA OPERATIVO
 
@@ -31,4 +31,51 @@ primitive--> procedura standard che sono gia messe a dispozione per l'utilizzo
 Shell
 
 file tipo batch 
+
+CICLO DI VITA DEL PROCESSO 
+
+Nuovo
+Pronto
+Esecuzione 
+Attesa
+Terminazione
+
+Multitasking --> non è un vero parallelismo ma virtuale
+
+Multiprocessing-->è un parallelismo avendo piu CPU possiamo lavorare con piu processi
+
+Scheduling --> assegna la cpu in basi a determinati canon --> attraverso algoritmi di scheduling
+
+THROUGHPUT --> è il numero di processi per unità di tempo che bisogna migliorare
+
+task sinonimo di job  che assumono nomi diversi nei diversi contesti.
+
+-sistemi batch job
+
+-sistemi time sharing job e task
+
+MS-DOS --> monoutente e monotasking 
+linux e windows --> multiutente
+
+La risorsa è un oggetto hardware e software che serve per far avanzare un processo dallo stato di 
+new allo stato di terminated.
+
+GRADO DI MULTIPROGRAMMAZIONE --> la somma dei processi attivi.
+
+Descrittore del processo 
+
+Ogni processo ha associato un proprio descrittore di processo che viene creato in fase di "creazione" del processo e mantenuto in memoria centrale , in un'area riservata al sistema operativo,per tutta la durata del processo. 
+
+Tale descrittore contiene:
+
+-PID;
+-PPID;
+-puntatore alla lista dei processi figli;
+-stato del processo;
+-priorità;
+-limite della memoria centrale utilizzata;
+-puntatore alla lista delle risorse in uso;
+-copia del contesto del processo (salva il PC,IR,MAR,MDR,registri speciali...);
+
+
 
