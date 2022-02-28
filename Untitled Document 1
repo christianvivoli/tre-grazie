@@ -1,0 +1,35 @@
+sistema operativo
+
+bootrastrap momento in cui processo dinamico il programma è statico
+
+il sistema è caricato tutto sulla ram
+
+-livelli 
+nucleo: stretto contratto con l ardware
+gestione memoria
+gestione periferiche
+file system:organizzazione dei file (albero gerarchico)
+shell:interfaccia con l utente anche grafic
+programmi applicativi:programmi che installa l utente 
+
+
+sistema operativo 
+due:di base e operativo
+
+di base serve per funzionare
+
+operativo unisce hardware con i programmi applicativi
+
+compiti principali del sistema operativo 
+due compiti
+1 sono risorse condivise da tutti i programmi
+2fornisce supporto all utente interfaccia tra hardware e programmi applicativi
+
+cipolla (onion skin)
+sei livelli di prima-
+
+primitive procedure gia predefinite (standard)
+
+virtuale qualcosa ceh facciamo finta che esista
+
+
