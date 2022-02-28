@@ -32,4 +32,30 @@ primitive procedure gia predefinite (standard)
 
 virtuale qualcosa ceh facciamo finta che esista
 
+ciclo di vita del processo
+new executive ready attesa terminated
+
+multitasking no piu processori finto parallelismo 
+diversi
+indipendenti 
+cooperano 
+competano gara a chi prende la risorsa per primo 
+multiprocessing piu processori vero parallelismo
+tuti e due non per forza multiutente
+
+scheduring ascegan la cpu in base a determinati canoni
+politiche 
+FCFS
+con priorità
+round robin
+
+throughput numero di processi che vengono eseguiti per unnita di tempo
+
+task processo == sistemi time sharing , sistemi bach ==job 
+
+programma non modifica lo stato della macchina
+mentre il processo si 
+
+scheduling scedula i fil ein posizione ready e decide che va primna e che va dopo 
+
 
