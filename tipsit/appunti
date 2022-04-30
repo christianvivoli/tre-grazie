@@ -1,7 +1,7 @@
 DIFFERENZA TRA PROCESSO E PROGRAMMA 
 
 Processo è dinamico e Programma è statico
-Il programma non  modifica lo stato della macchina invece il processo non lo modifica.
+Il programma non  modifica lo stato della macchina invece il processo lo modifica.
 
 LIVELLI DEL SISTEMA OPERATIVO
 
